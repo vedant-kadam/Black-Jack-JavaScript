@@ -1,0 +1,28 @@
+body{
+    background: seagreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+h1{
+   color:orange;
+}
+p{
+    color: aliceblue;
+}
+
+#message-el{
+    font-style: oblique;
+}
+button{
+    background-color : rgb(243, 177, 11);
+    color: #016f32;
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    margin-top: 5px;
+}
